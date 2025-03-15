@@ -1,15 +1,15 @@
-# Speech-to-Sign-language-Translator
+# 🗣️ Speech-to-Sign-language-Translator
 
 **An application which takes in live speech or audio recording as input, converts it into text, and displays the relevant Indian Sign Language images or GIFs.**
 
-## Features
+## ✨ Features
 - **Front-end:** EasyGui
 - **Speech Input:** Microphone using PyAudio
 - **Speech Recognition:** Google Speech API and Sphinx (for offline use)
 - **Text Preprocessing:** NLP
 - **Translation:** Dictionary-based Machine Translation
 
-## To Run the Application
+## 🚀 To Run the Application
 1. Open the Downloads folder and then open the terminal.
 2. From the terminal, run the *main* python file using the command:
    ```sh
@@ -20,17 +20,17 @@
 5. Any speech recorded is then processed and respective outputs are shown accordingly.
 6. To exit the application using speech, say **goodbye**.
 
-## About Sign Language
+## 🧏 About Sign Language
 **Sign language** is a visual language that is used by deaf people as their mother tongue. Unlike acoustically conveyed sound patterns, sign language uses body language and manual communication to fluidly convey the thoughts of a person. Due to the considerable time required in learning Sign Language, it becomes difficult to communicate with these specially abled people, creating a communication gap.
 
-## Objective
+## 🎯 Objective
 **This Audio to Sign Language converter aims at:**
 - Providing information access and services to deaf people in Indian sign language.
 - Developing a scalable project which can be extended to capture the whole vocabulary of ISL through manual and non-manual signs.
 
 It can be developed as a desktop or mobile application to enable specially abled people to communicate easily and effectively with others.
 
-## Algorithm
+## 📜 Algorithm
 ### Audio to Sign Language Translator
 1. **Start**
 2. **Getting the Speech**
@@ -48,6 +48,6 @@ It can be developed as a desktop or mobile application to enable specially abled
 6. **Error Handling**
    - If Error in Step 2, that is if no Speech is Detected, then display error message “Could not listen”.
 
-## Significance
+## 🌟 Significance
 The Audio to Sign Language converter is important and significant because it helps in providing information access and services to deaf people in Indian sign language. It also develops a scalable project which can be extended to capture the whole vocabulary of ISL through manual and non-manual signs. Additionally, it can be developed as a desktop or mobile application to enable specially abled people to communicate easily and effectively with others.
 
