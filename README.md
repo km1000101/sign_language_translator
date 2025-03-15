@@ -1,6 +1,6 @@
 # 🗣️ Speech-to-Sign-language-Translator
 
-**An application which takes in live speech or audio recording as input, converts it into text, and displays the relevant Indian Sign Language images or GIFs.**
+**An application that takes in live speech or audio recording as input, converts it into text, and displays the relevant Indian Sign Language images or GIFs.**
 
 ## ✨ Features
 - **Front-end:** EasyGui
