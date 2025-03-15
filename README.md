@@ -51,5 +51,3 @@ It can be developed as a desktop or mobile application to enable specially abled
 ## Significance
 The Audio to Sign Language converter is important and significant because it helps in providing information access and services to deaf people in Indian sign language. It also develops a scalable project which can be extended to capture the whole vocabulary of ISL through manual and non-manual signs. Additionally, it can be developed as a desktop or mobile application to enable specially abled people to communicate easily and effectively with others.
 
-The project before enhancement and modification was cloned from <a href = "https://github.com/Shubh-Yadav/Automatic-Indian-Sign-Language-Translator">Shubh-Yadav</a>
-This project is now modified for better and enhanced speech recognition. Also added the program to work in offline mode.
